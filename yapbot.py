@@ -383,4 +383,4 @@ async def end_quiz(ctx):
     await ctx.send(f"Quiz ended. You got {correct_answers}/{questions_to_ask} correct answers.")
     quiz_active = False
 
-bot.run('MTE4NTA2OTI3MjEyNTQwNzIzNA.GGilhx.WSRbUzkJ3iTqNJZtEqe7XRFEfzhnzz8SxRW3To')
+bot.run('')
